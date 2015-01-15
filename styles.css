@@ -4,7 +4,7 @@ body, div {
 	text-align: center;
 	display: block;
 }
- 
+
 h1 {
   font-size: 2em;
   font-weight: bold;
@@ -12,40 +12,40 @@ h1 {
   margin: 10px 0px 10px;
   text-align: center;
 }
- 
+
 h2 {
   font-size: 1em;
   color: #777777;
   margin: 10px 0px 10px;
   text-align: center;
 }
- 
+
 label {
   vertical-align: top;
 }
- 
+
 .rangeOption {
   float: initial;
   width: 150px;
 }
- 
+
 .rangeOption input {
   display: block;
   width: 100%;
 }
- 
+
 .rangeOption .minLabel {
   float: left;
 }
- 
+
 .rangeOption .minLabel label {
   margin-left: -50%;
 }
- 
+
 .rangeOption .maxLabel {
   float: right;
 }
- 
+
 .rangeOption .maxLabel label {
   margin-left: 50%;
 }
